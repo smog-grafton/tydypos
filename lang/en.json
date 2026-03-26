@@ -1,0 +1,23 @@
+{
+    "Email address": "Email address",
+    "Password": "Password",
+    "Remember me": "Remember me",
+    "Sign in": "Sign in",
+    "Dashboard": "Dashboard",
+    "Foundation Summary": "Foundation Summary",
+    "Foundation Ready": "Foundation Ready",
+    "Users": "Users",
+    "Branches": "Branches",
+    "Settings": "Settings",
+    "Active branch": "Active branch",
+    "Role coverage": "Role coverage",
+    "Locale": "Locale",
+    "English": "English",
+    "Spanish": "Spanish",
+    "Sign out": "Sign out",
+    "Your account is inactive. Contact an administrator.": "Your account is inactive. Contact an administrator.",
+    "Shared-hosting-safe uploads": "Shared-hosting-safe uploads",
+    "Modular monolith foundation": "Modular monolith foundation",
+    "Permissions and seed data": "Permissions and seed data",
+    "Tydy POS now has a working Laravel foundation with authentication, role-based seed data, branch awareness, shared-hosting-safe uploads, and theme-driven branding settings.": "Tydy POS now has a working Laravel foundation with authentication, role-based seed data, branch awareness, shared-hosting-safe uploads, and theme-driven branding settings."
+}

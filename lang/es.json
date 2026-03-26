@@ -1,0 +1,23 @@
+{
+    "Email address": "Correo electrónico",
+    "Password": "Contraseña",
+    "Remember me": "Recordarme",
+    "Sign in": "Iniciar sesión",
+    "Dashboard": "Panel",
+    "Foundation Summary": "Resumen de la base",
+    "Foundation Ready": "Base lista",
+    "Users": "Usuarios",
+    "Branches": "Sucursales",
+    "Settings": "Configuraciones",
+    "Active branch": "Sucursal activa",
+    "Role coverage": "Cobertura de roles",
+    "Locale": "Idioma",
+    "English": "Inglés",
+    "Spanish": "Español",
+    "Sign out": "Cerrar sesión",
+    "Your account is inactive. Contact an administrator.": "Tu cuenta está inactiva. Contacta a un administrador.",
+    "Shared-hosting-safe uploads": "Cargas seguras para hosting compartido",
+    "Modular monolith foundation": "Base monolítica modular",
+    "Permissions and seed data": "Permisos y datos iniciales",
+    "Tydy POS now has a working Laravel foundation with authentication, role-based seed data, branch awareness, shared-hosting-safe uploads, and theme-driven branding settings.": "Tydy POS ahora tiene una base funcional con autenticación, datos iniciales por roles, soporte de sucursales, cargas seguras para hosting compartido y configuración visual dirigida por ajustes."
+}
